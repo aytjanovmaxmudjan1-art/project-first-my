@@ -1,0 +1,3 @@
+ьььььььььььььььььььььььььььььььььььь
+git commit -m "jana ozgeris
+BUGIN LOCAL FILEDAGI OZGERISLERDI GIT HUBQA JUKLEWDI UYRENIP ALAMIZ
